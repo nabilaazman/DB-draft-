@@ -1,6 +1,6 @@
 body {
-  margin: 0;
-  font-family: fantasy,Helvetica, sans-serif;
+  margin: 0px;
+  font-family:  "Times New Roman", Times, serif;
 }
 /* Add a black background color to the top navigation */
 .topnav {
@@ -13,7 +13,7 @@ body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 13px 16px;
   text-decoration: none;
   font-size: 30px;
 }
@@ -33,4 +33,9 @@ body {
 /* Right-aligned section inside the top navigation */
 .topnav-right {
   float: right;
+}
+.logo img{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: :10px;
 }
